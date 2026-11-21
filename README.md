@@ -4,4 +4,4 @@ An early, unfinished portfolio page layout.
 
 **Built with:** HTML, CSS
 
-> Classwork from a school coding course (2020). I wrote most of the HTML and CSS myself.
+> Classwork from the WhiteHat Jr online coding course (2020). I wrote most of the HTML and CSS myself.
