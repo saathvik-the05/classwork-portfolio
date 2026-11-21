@@ -4,4 +4,4 @@ An early, unfinished portfolio page layout.
 
 **Built with:** HTML, CSS
 
-> Built in 2020 during a school coding course. Kept here as a record of early work; it has not been updated since.
+> Classwork from a school coding course (2020). I wrote most of the HTML and CSS myself.
